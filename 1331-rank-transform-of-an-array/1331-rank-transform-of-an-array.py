@@ -8,7 +8,7 @@ class Solution(object):
         rank = 1
         dic = {}
 
-        for i, j in enumerate(arrSorted):
+        for j in arrSorted:
             if j not in dic:
                 dic[j] = rank
                 rank += 1
