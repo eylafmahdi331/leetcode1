@@ -6,7 +6,8 @@ class Solution(object):
         :rtype: bool
         """
 
-   
+        if len(s) != len(goal):
+            return False
         new = []
         for i in range(len(s)):
             new.append(s[i])
