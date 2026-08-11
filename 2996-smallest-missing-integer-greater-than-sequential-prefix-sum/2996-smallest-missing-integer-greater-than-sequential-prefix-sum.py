@@ -20,10 +20,8 @@ class Solution(object):
 
         sum_seq = sum( seq)
 
-        for i in range (len(nums)):
-            if sum_seq in nums:
+        while sum_seq in nums:
                 sum_seq += 1
-            else: 
-                return sum_seq
+           
         return sum_seq
         
