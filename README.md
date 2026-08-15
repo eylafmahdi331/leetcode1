@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/eylafmahdi331/leetcode1/tree/main/0014-longest-common-prefix/) | Easy |
+| [0088-merge-sorted-array](https://github.com/eylafmahdi331/leetcode1/tree/main/0088-merge-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/eylafmahdi331/leetcode1/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/eylafmahdi331/leetcode1/tree/main/0088-merge-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/eylafmahdi331/leetcode1/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/eylafmahdi331/leetcode1/tree/main/0088-merge-sorted-array/) | Easy |
 | [0344-reverse-string](https://github.com/eylafmahdi331/leetcode1/tree/main/0344-reverse-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
