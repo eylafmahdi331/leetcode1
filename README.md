@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/eylafmahdi331/leetcode1/tree/main/0014-longest-common-prefix/) | Easy |
+| [0035-search-insert-position](https://github.com/eylafmahdi331/leetcode1/tree/main/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/eylafmahdi331/leetcode1/tree/main/0088-merge-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -73,4 +74,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/eylafmahdi331/leetcode1/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/eylafmahdi331/leetcode1/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
