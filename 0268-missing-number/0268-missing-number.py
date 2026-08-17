@@ -4,7 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        set_nums = sorted(nums)
-        for i in range(len(set_nums) + 1):
-            if i not in nums:
-                return i
+        len_nums = len(nums)
+        arithmetic_series =(len_nums * (len_nums + 1)) // 2
+        sum_nums = sum(nums)
+        return arithmetic_series - sum_nums
+
+        
