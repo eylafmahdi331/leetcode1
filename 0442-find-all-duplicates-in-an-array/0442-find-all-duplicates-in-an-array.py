@@ -8,10 +8,10 @@ class Solution(object):
         dup = []
 
         for i in nums:
-            if i not in seen:
-                seen.add(i)
-            else:
+            if i in seen:
                 dup.append(i)
+            else:
+                seen.add(i)
         return dup
             
 
