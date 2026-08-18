@@ -4,14 +4,18 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        duplicates = {}
+        seen = set()
+        dup = []
 
         for i in nums:
-            duplicates[i] = duplicates.get(i, 0) + 1
-        result = []
+            if i not in seen:
+                seen.add(i)
+            else:
+                dup.append(i)
+        return dup
+            
 
-        for num, count in duplicates.items():
-            if count > 1:
-                result.append(num)
-        return result
+
+
+        
         
