@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/eylafmahdi331/leetcode1/tree/main/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/eylafmahdi331/leetcode1/tree/main/0035-search-insert-position/) | Easy |
+| [0047-permutations-ii](https://github.com/eylafmahdi331/leetcode1/tree/main/0047-permutations-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/eylafmahdi331/leetcode1/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/eylafmahdi331/leetcode1/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/eylafmahdi331/leetcode1/tree/main/0047-permutations-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/eylafmahdi331/leetcode1/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/eylafmahdi331/leetcode1/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -96,5 +98,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/eylafmahdi331/leetcode1/tree/main/0047-permutations-ii/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/eylafmahdi331/leetcode1/tree/main/1980-find-unique-binary-string/) | Medium |
 <!---LeetCode Topics End-->
