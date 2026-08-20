@@ -15,7 +15,7 @@ class Solution(object):
           
    
         return False'''
-        seen = {}
+        '''seen = {}
 
         for i, num in enumerate(nums):
             if num not in seen:
@@ -32,6 +32,13 @@ class Solution(object):
                         if abs(seen[i][a] - seen[i][b]) <= k:
                             return True
 
-        return False
+        return False'''
+        seen = {}
+        for i, num in enumerate(nums):
+            if num in seen:
+                if i - seen[num] <= k:
+                    return True
 
+            seen[num] = i
+        return False
         
