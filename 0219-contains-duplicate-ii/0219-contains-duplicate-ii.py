@@ -35,8 +35,7 @@ class Solution(object):
         return False'''
         seen = {}
         for i, num in enumerate(nums):
-            if num in seen:
-                if i - seen[num] <= k:
+            if num in seen and i - seen[num] <= k:
                     return True
 
             seen[num] = i
