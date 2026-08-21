@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1534-count-good-triplets](https://github.com/eylafmahdi331/leetcode1/tree/main/1534-count-good-triplets/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/eylafmahdi331/leetcode1/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1534-count-good-triplets](https://github.com/eylafmahdi331/leetcode1/tree/main/1534-count-good-triplets/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/eylafmahdi331/leetcode1/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/eylafmahdi331/leetcode1/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/eylafmahdi331/leetcode1/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
