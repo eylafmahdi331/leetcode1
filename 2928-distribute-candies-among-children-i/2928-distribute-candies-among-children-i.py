@@ -9,7 +9,7 @@ class Solution(object):
         for i in range(limit + 1):
             for j in range (limit +1):
                 for k in range (limit +1):
-                    if (i or j or k <= limit ) and sum([i, j, k]) == n:
+                    if sum([i, j, k]) == n:
     
        
                         count +=1
