@@ -9,7 +9,7 @@ class Solution(object):
         for i in range(limit + 1):
             for j in range (limit +1):
                 for k in range (limit +1):
-                    if sum([i, j, k]) == n:
+                    if i + j + k == n:
     
        
                         count +=1
