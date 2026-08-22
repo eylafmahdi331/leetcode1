@@ -7,12 +7,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/eylafmahdi331/leetcode1/tree/main/0268-missing-number/) | Easy |
+| [2928-distribute-candies-among-children-i](https://github.com/eylafmahdi331/leetcode1/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/eylafmahdi331/leetcode1/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/eylafmahdi331/leetcode1/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1534-count-good-triplets](https://github.com/eylafmahdi331/leetcode1/tree/main/1534-count-good-triplets/) | Easy |
+| [2928-distribute-candies-among-children-i](https://github.com/eylafmahdi331/leetcode1/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/eylafmahdi331/leetcode1/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -111,4 +113,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/eylafmahdi331/leetcode1/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2928-distribute-candies-among-children-i](https://github.com/eylafmahdi331/leetcode1/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 <!---LeetCode Topics End-->
