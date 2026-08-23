@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/eylafmahdi331/leetcode1/tree/main/0268-missing-number/) | Easy |
+| [0412-fizz-buzz](https://github.com/eylafmahdi331/leetcode1/tree/main/0412-fizz-buzz/) | Easy |
 | [2928-distribute-candies-among-children-i](https://github.com/eylafmahdi331/leetcode1/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/eylafmahdi331/leetcode1/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/eylafmahdi331/leetcode1/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/eylafmahdi331/leetcode1/tree/main/0014-longest-common-prefix/) | Easy |
 | [0344-reverse-string](https://github.com/eylafmahdi331/leetcode1/tree/main/0344-reverse-string/) | Easy |
+| [0412-fizz-buzz](https://github.com/eylafmahdi331/leetcode1/tree/main/0412-fizz-buzz/) | Easy |
 | [0796-rotate-string](https://github.com/eylafmahdi331/leetcode1/tree/main/0796-rotate-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/eylafmahdi331/leetcode1/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/eylafmahdi331/leetcode1/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -117,4 +119,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2928-distribute-candies-among-children-i](https://github.com/eylafmahdi331/leetcode1/tree/main/2928-distribute-candies-among-children-i/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/eylafmahdi331/leetcode1/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
