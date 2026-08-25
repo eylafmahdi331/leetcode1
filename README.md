@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/eylafmahdi331/leetcode1/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/eylafmahdi331/leetcode1/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/eylafmahdi331/leetcode1/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/eylafmahdi331/leetcode1/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/eylafmahdi331/leetcode1/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/eylafmahdi331/leetcode1/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/eylafmahdi331/leetcode1/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/eylafmahdi331/leetcode1/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/eylafmahdi331/leetcode1/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
