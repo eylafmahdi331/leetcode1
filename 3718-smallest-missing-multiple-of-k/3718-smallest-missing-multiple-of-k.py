@@ -5,7 +5,7 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        numss = sorted(set(nums))
+        numss = set(nums)
         multiples = list(range(k, 400, k))
         for i in multiples:
             if i not in numss:
