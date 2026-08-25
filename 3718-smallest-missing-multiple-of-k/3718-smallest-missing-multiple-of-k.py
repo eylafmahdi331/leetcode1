@@ -5,10 +5,16 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-              
-        for i in range(1, 1000):
-            if i % k == 0 and i not in nums:
-                return i 
+        multiple = [] 
+        for i in range(1, 400):
+            if i % k == 0:
+                multiple.append(i)
+        mul_set = sorted(set(multiple))     
+
+        for i in mul_set:
+            if i not in nums:
+                return i
+
            
                     
 
