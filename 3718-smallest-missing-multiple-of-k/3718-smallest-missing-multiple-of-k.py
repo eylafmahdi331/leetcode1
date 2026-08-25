@@ -5,9 +5,10 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        
-        for i in range(1, 400):
-            if i % k == 0 and i not in nums:
+        numss = sorted(set(nums))
+        multiples = list(range(k, 400, k))
+        for i in multiples:
+            if i not in numss:
                 return i 
            
                     
