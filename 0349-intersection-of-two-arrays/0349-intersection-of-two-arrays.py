@@ -9,8 +9,7 @@ class Solution(object):
         num1 = set(nums1)
         num2 = set(nums2)
         for i in num1:
-            for j in num2:
-                if i == j:
+            if i in num1 and i in num2:
                     inter.append(i)
         return (inter)
 
