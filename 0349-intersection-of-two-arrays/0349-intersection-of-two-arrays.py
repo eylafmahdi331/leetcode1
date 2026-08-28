@@ -5,11 +5,15 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
-        inter = set()
-        for i in nums1:
-            for j in nums2:
+        inter = []
+        num1 = set(nums1)
+        num2 = set(nums2)
+        for i in num1:
+            for j in num2:
                 if i == j:
-                    inter.add(i)
-        return list(inter)
+                    inter.append(i)
+        return (inter)
+
+        
 
         
