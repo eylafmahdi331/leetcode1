@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/eylafmahdi331/leetcode1/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/eylafmahdi331/leetcode1/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/eylafmahdi331/leetcode1/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/eylafmahdi331/leetcode1/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/eylafmahdi331/leetcode1/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/eylafmahdi331/leetcode1/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/eylafmahdi331/leetcode1/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/eylafmahdi331/leetcode1/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/eylafmahdi331/leetcode1/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/eylafmahdi331/leetcode1/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/eylafmahdi331/leetcode1/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/eylafmahdi331/leetcode1/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/eylafmahdi331/leetcode1/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -86,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/eylafmahdi331/leetcode1/tree/main/0088-merge-sorted-array/) | Easy |
 | [0344-reverse-string](https://github.com/eylafmahdi331/leetcode1/tree/main/0344-reverse-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/eylafmahdi331/leetcode1/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/eylafmahdi331/leetcode1/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/eylafmahdi331/leetcode1/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/eylafmahdi331/leetcode1/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
