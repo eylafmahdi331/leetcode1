@@ -138,4 +138,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/eylafmahdi331/leetcode1/tree/main/0070-climbing-stairs/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0183-customers-who-never-order](https://github.com/eylafmahdi331/leetcode1/tree/main/0183-customers-who-never-order/) | Easy |
 <!---LeetCode Topics End-->
