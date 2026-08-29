@@ -4,16 +4,14 @@ class Solution(object):
         :type strs: List[str]
         :rtype: List[List[str]]
         """
-        groups = {}
+        dicts = {}
 
         for word in strs:
             key = ''.join(sorted(word))
+            if key not in dicts:
+                dicts[key] = []
+            dicts[key].append(word)
 
-            if key not in groups:
-                groups[key] = []
-
-            groups[key].append(word)
-
-        return list(groups.values())
+        return list(dicts.values())
 
         
