@@ -6,10 +6,7 @@ class Solution(object):
         """
         import string
         letters = list(string.ascii_uppercase)
-        result = []
-        for letter in letters:
-            for j in letters:
-                result.append(letter + j)
+        
         total = 0
         power = len(columnTitle) - 1
         for i in columnTitle:
