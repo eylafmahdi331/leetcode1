@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/eylafmahdi331/leetcode1/tree/main/0070-climbing-stairs/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/eylafmahdi331/leetcode1/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0263-ugly-number](https://github.com/eylafmahdi331/leetcode1/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/eylafmahdi331/leetcode1/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/eylafmahdi331/leetcode1/tree/main/0412-fizz-buzz/) | Easy |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/eylafmahdi331/leetcode1/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/eylafmahdi331/leetcode1/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/eylafmahdi331/leetcode1/tree/main/0058-length-of-last-word/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/eylafmahdi331/leetcode1/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0344-reverse-string](https://github.com/eylafmahdi331/leetcode1/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/eylafmahdi331/leetcode1/tree/main/0412-fizz-buzz/) | Easy |
 | [0771-jewels-and-stones](https://github.com/eylafmahdi331/leetcode1/tree/main/0771-jewels-and-stones/) | Easy |
