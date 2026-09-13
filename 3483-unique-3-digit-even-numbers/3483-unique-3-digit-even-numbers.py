@@ -4,24 +4,20 @@ class Solution(object):
         :type digits: List[int]
         :rtype: int
         """
-        import itertools
+        even_count = set()
 
-        even_count = [] # To store unique even three-digit numbers
+        for i in range(len(digits)):
+            for j in range(len(digits)):
+                for k in range(len(digits)):
 
-# Generate all permutations of length 3 from the 'digits' list
-        for p in itertools.permutations(digits, 3):
-    # Form the three-digit number string
-            num_str = "".join(map(str, p))
+                    if i != j and j != k and i != k:
 
-    # Convert to integer
-            three_digit_num = int(num_str)
+                        if digits[i] == 0:
+                            continue
 
-    # Check conditions:
-    # 1. Numerically three-digit (i.e., between 100 and 999)
-    # 2. Is even
-    # 3. Not already in even_count list (to ensure uniqueness in the output)
-            if three_digit_num % 2 == 0 and three_digit_num >= 100:
-                if three_digit_num not in even_count:
-                    even_count.append(three_digit_num)
+                        three_digit_num = str(digits[i]) + str(digits[j]) + str(digits[k])
+                        num = int(three_digit_num)
 
-        return(len(even_count))
+                        if num % 2 == 0:
+                            even_count.add(num)
+        return (len(even_count))
