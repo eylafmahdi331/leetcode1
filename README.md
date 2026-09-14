@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/eylafmahdi331/leetcode1/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/eylafmahdi331/leetcode1/tree/main/0070-climbing-stairs/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/eylafmahdi331/leetcode1/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0263-ugly-number](https://github.com/eylafmahdi331/leetcode1/tree/main/0263-ugly-number/) | Easy |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/eylafmahdi331/leetcode1/tree/main/0035-search-insert-position/) | Easy |
 | [0047-permutations-ii](https://github.com/eylafmahdi331/leetcode1/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/eylafmahdi331/leetcode1/tree/main/0049-group-anagrams/) | Medium |
+| [0066-plus-one](https://github.com/eylafmahdi331/leetcode1/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/eylafmahdi331/leetcode1/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/eylafmahdi331/leetcode1/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/eylafmahdi331/leetcode1/tree/main/0217-contains-duplicate/) | Easy |
