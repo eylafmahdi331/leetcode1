@@ -9,7 +9,7 @@ class Solution(object):
         nums.sort(reverse = True)
 
         if len(nums) <= 2:
-            return max(nums)
+            return nums[0]
         else:
             return nums[2]
          
