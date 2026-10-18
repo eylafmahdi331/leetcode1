@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/eylafmahdi331/leetcode1/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/eylafmahdi331/leetcode1/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/eylafmahdi331/leetcode1/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0242-valid-anagram](https://github.com/eylafmahdi331/leetcode1/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/eylafmahdi331/leetcode1/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/eylafmahdi331/leetcode1/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/eylafmahdi331/leetcode1/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/eylafmahdi331/leetcode1/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/eylafmahdi331/leetcode1/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/eylafmahdi331/leetcode1/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/eylafmahdi331/leetcode1/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/eylafmahdi331/leetcode1/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/eylafmahdi331/leetcode1/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/eylafmahdi331/leetcode1/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/eylafmahdi331/leetcode1/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/eylafmahdi331/leetcode1/tree/main/0058-length-of-last-word/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/eylafmahdi331/leetcode1/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0242-valid-anagram](https://github.com/eylafmahdi331/leetcode1/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/eylafmahdi331/leetcode1/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/eylafmahdi331/leetcode1/tree/main/0412-fizz-buzz/) | Easy |
 | [0771-jewels-and-stones](https://github.com/eylafmahdi331/leetcode1/tree/main/0771-jewels-and-stones/) | Easy |
