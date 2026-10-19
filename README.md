@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1534-count-good-triplets](https://github.com/eylafmahdi331/leetcode1/tree/main/1534-count-good-triplets/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/eylafmahdi331/leetcode1/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/eylafmahdi331/leetcode1/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2418-sort-the-people](https://github.com/eylafmahdi331/leetcode1/tree/main/2418-sort-the-people/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/eylafmahdi331/leetcode1/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/eylafmahdi331/leetcode1/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/eylafmahdi331/leetcode1/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0771-jewels-and-stones](https://github.com/eylafmahdi331/leetcode1/tree/main/0771-jewels-and-stones/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/eylafmahdi331/leetcode1/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2418-sort-the-people](https://github.com/eylafmahdi331/leetcode1/tree/main/2418-sort-the-people/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/eylafmahdi331/leetcode1/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/eylafmahdi331/leetcode1/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/eylafmahdi331/leetcode1/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/eylafmahdi331/leetcode1/tree/main/0881-boats-to-save-people/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2418-sort-the-people](https://github.com/eylafmahdi331/leetcode1/tree/main/2418-sort-the-people/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/eylafmahdi331/leetcode1/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/eylafmahdi331/leetcode1/tree/main/3731-find-missing-elements/) | Easy |
 ## Number Theory
@@ -119,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/eylafmahdi331/leetcode1/tree/main/0796-rotate-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/eylafmahdi331/leetcode1/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/eylafmahdi331/leetcode1/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2418-sort-the-people](https://github.com/eylafmahdi331/leetcode1/tree/main/2418-sort-the-people/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
