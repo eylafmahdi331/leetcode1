@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/eylafmahdi331/leetcode1/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0881-boats-to-save-people](https://github.com/eylafmahdi331/leetcode1/tree/main/0881-boats-to-save-people/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1534-count-good-triplets](https://github.com/eylafmahdi331/leetcode1/tree/main/1534-count-good-triplets/) | Easy |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/eylafmahdi331/leetcode1/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/eylafmahdi331/leetcode1/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0881-boats-to-save-people](https://github.com/eylafmahdi331/leetcode1/tree/main/0881-boats-to-save-people/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eylafmahdi331/leetcode1/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/eylafmahdi331/leetcode1/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/eylafmahdi331/leetcode1/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/eylafmahdi331/leetcode1/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/eylafmahdi331/leetcode1/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0881-boats-to-save-people](https://github.com/eylafmahdi331/leetcode1/tree/main/0881-boats-to-save-people/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,4 +227,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eylafmahdi331/leetcode1/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/eylafmahdi331/leetcode1/tree/main/0881-boats-to-save-people/) | Medium |
+## Timsort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/eylafmahdi331/leetcode1/tree/main/0881-boats-to-save-people/) | Medium |
 <!---LeetCode Topics End-->
