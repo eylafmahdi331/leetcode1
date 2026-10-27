@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/eylafmahdi331/leetcode1/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/eylafmahdi331/leetcode1/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/eylafmahdi331/leetcode1/tree/main/0412-fizz-buzz/) | Easy |
+| [1922-count-good-numbers](https://github.com/eylafmahdi331/leetcode1/tree/main/1922-count-good-numbers/) | Medium |
 | [2928-distribute-candies-among-children-i](https://github.com/eylafmahdi331/leetcode1/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/eylafmahdi331/leetcode1/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/eylafmahdi331/leetcode1/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/eylafmahdi331/leetcode1/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [1922-count-good-numbers](https://github.com/eylafmahdi331/leetcode1/tree/main/1922-count-good-numbers/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/eylafmahdi331/leetcode1/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
